@@ -41,9 +41,11 @@
 
 ## :file_folder: data
 - azure_oai_usage_stats_(power_bi)
+- azure_ocr_scan_doc_to_table
 - chain-of-thought
 - fabric_cosmosdb_chat_analytics
 - firecrawl_(crawling)
+- ms_graph_api
 - presidio_(redaction)
 - prompt_buddy_(power_app)
 - sammo_(prompt_opt)
@@ -138,6 +140,7 @@
 - [RAG Techniques by NirDiamant](https://github.com/NirDiamant/RAG_Techniques)
 - [Gemini API Cookbook](https://github.com/google-gemini/cookbook)
 - [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook)
+- [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 - 💡[How to switch between OpenAI and Azure OpenAI endpoints with Python](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/switching-endpoint)
 
 ## :computer: Microsoft Frameworks and Libraries
